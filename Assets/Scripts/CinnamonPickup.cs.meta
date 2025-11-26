@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2c8e797f55ab54f4ebaf5cd602a3876f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CinnamonMaterial: {fileID: 2100000, guid: 34d8f5c5c3c6b5144a7ece623570bd73, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
