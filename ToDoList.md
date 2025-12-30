@@ -1,8 +1,7 @@
-# To-Do-List 
+# Future Plans / To-Do
 
-A list of changes to be made
-
-* Player save (names, progress/scores)
-* Settings (volume, difficulty, ????)
-* 
-* 
+- Add persistent high scores across sessions
+- Add settings options for volume and difficulty
+- More levels and environmental variety
+- Additional power-ups and visual polish
+- Further mobile optimization and testing
