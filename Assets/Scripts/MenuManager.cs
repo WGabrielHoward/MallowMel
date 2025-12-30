@@ -5,10 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class MenuManager : MonoBehaviour
 {
-    public GameObject mainMenuUI; // Assign the MainMenu Canvas here
+    public GameObject mainMenuUI; 
     public GameObject moreMenu;
-    //public GameObject backstoryCanvas;
-    //public GameObject infoCanvas;
     public GameObject quitCanvas;
 
     public void Play()
@@ -18,26 +16,8 @@ public class MenuManager : MonoBehaviour
         SceneManager.LoadScene(2, LoadSceneMode.Single);
     }
 
-    //public void Info()
-    //{
-    //    Time.timeScale = 1f;
-    //    AudioListener.pause = false;
-    //    mainMenuUI.SetActive(false);
-    //    infoCanvas.SetActive(true);
-    //}
-
-    //public void Backstory()
-    //{
-    //    Time.timeScale = 1f;
-    //    AudioListener.pause = false;
-    //    mainMenuUI.SetActive(false);
-    //    backstoryCanvas.SetActive(true);
-    //}
-
     public void Menu()
     {
-        //backstoryCanvas.SetActive(false);
-        //infoCanvas.SetActive(false);
         moreMenu.SetActive(false);
         mainMenuUI.SetActive(true);
     }
