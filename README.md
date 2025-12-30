@@ -48,8 +48,34 @@ A cute 2D platformer built in Unity where you control **Mel the Marshmallow** â€
 <img src="assets/screenshot4.png" alt="Level Goal" width="600"/>
 
 ### Credits & Assets
-- (Add any third-party assets here with links and licenses â€“ e.g., sound effects, fonts, free art packs)
-- Custom levels, and visuals by William G. Howard
+Thank you to the following creators for their wonderful assets and contributions used in this project:
+
+- **Mel the Marshmallow & Candy Cane character**  
+  Custom character design and sprites by Rebecca, aka "Rebecca the Forest Witch".
+
+- **VFX URP - Fire Package Cartoon VFX**  
+  [VFX URP - Fire Package Cartoon VFX](https://assetstore.unity.com/packages/vfx/particles/fire-explosion/vfx-urp-fire-package-cartoon-vfx-243622) by Wallcoeur  
+  Cartoon-style fire and particle effects.  
+  Licensed under the Standard Unity Asset Store EULA.
+
+- **2D Casual Background HD V.4**  
+  [2D Casual Background HD V.4](https://assetstore.unity.com/packages/2d/environments/2d-casual-background-hd-v-4-203726) by MiMU STUDIO  
+  Backgrounds and environmental art.  
+  Licensed under the Standard Unity Asset Store EULA.
+
+- **Bolt 2D JellyFarm Assets Pack**  
+  [Bolt 2D JellyFarm Assets Pack](https://assetstore.unity.com/packages/2d/characters/bolt-2d-jellyfarm-assets-pack-218397) by Goldmetal Studio  
+  Jelly-themed sprites and assets (used as reference/inspiration for squishy effects).  
+  Licensed under the Standard Unity Asset Store EULA.
+
+- **Free Platform Game Assets**  
+  [Free Platform Game Assets](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838) by Bayat Games  
+  Platform tiles, props, and UI elements.  
+  Licensed under the Standard Unity Asset Store EULA.
+
+- Level design, gameplay systems, custom shaders, power-up logic, mobile controls, and code by **William G. Howard**.
+
+Huge thanks to Rebecca for the adorable Mel and candy cane designs, and to all the asset creators for making these high-quality resources available!
 
 
 ### Future Plans / To-Do
