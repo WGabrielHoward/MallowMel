@@ -50,7 +50,7 @@ A cute 2D platformer built in Unity where you control **Mel the Marshmallow** â€
 ### Credits & Assets
 Thank you to the following creators for their wonderful assets and contributions used in this project:
 
-- **Mel the Marshmallow & Candy Cane character**  
+- **Mel the Marshmallow & Candy Cane **  
   Custom character design and sprites by Rebecca, aka "Rebecca the Forest Witch".
 
 - **VFX URP - Fire Package Cartoon VFX**  
@@ -65,7 +65,7 @@ Thank you to the following creators for their wonderful assets and contributions
 
 - **Bolt 2D JellyFarm Assets Pack**  
   [Bolt 2D JellyFarm Assets Pack](https://assetstore.unity.com/packages/2d/characters/bolt-2d-jellyfarm-assets-pack-218397) by Goldmetal Studio  
-  Jelly-themed sprites and assets (used as reference/inspiration for squishy effects).  
+  Jelly-themed sprites and assets.  
   Licensed under the Standard Unity Asset Store EULA.
 
 - **Free Platform Game Assets**  
