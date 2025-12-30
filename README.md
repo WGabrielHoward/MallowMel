@@ -3,9 +3,8 @@
 A cute 2D platformer built in Unity where you control **Mel the Marshmallow** – a bouncy, squishy character navigating sweet-themed levels with fun platforming, power-ups, and scoring!
 
 **Play it now in your browser:**  
-[Play MallowMel on Unity Play](https://play.unity.com/link-here)  
-*(Replace with your actual Unity Play or itch.io link once uploaded )*
-
+[Play MallowMel on Unity Play](https://play.unity.com/en/games/d7cafca4-aa80-43d1-a72d-88f2fb8f4de5/mallow-mel)  
+[Play MallowMel on itch.io](https://mercurymerc8.itch.io/mallow-mel)
 <!-- Replace with GIF once recorded -->
 <img src="assets/gameplay.gif" alt="Gameplay GIF" width="600"/>
 
