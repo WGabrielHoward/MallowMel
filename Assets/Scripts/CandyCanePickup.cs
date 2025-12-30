@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CandyCanePickup : MonoBehaviour
 {
-    public Material CandyCaneMaterial;
+    [SerializeField] private Material CandyCaneMaterial;
 
     private void OnTriggerEnter2D(Collider2D other)
     {

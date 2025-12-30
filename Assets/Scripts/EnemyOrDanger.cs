@@ -8,7 +8,7 @@ public class EnemyOrDanger : MonoBehaviour
 
     void Start()
     {
-        pool = FindObjectOfType<ObjectPool>();
+        pool = FindAnyObjectByType<ObjectPool>();
     }
 
     // Example: when enemy goes off-screen or "dies"

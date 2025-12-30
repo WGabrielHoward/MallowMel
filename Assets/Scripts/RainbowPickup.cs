@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class RainbowPickup : MonoBehaviour
 {
-    public Material rainbowMaterial;
+    [SerializeField] private Material rainbowMaterial;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -19,24 +19,4 @@ public class RainbowPickup : MonoBehaviour
     }
 }
 
-//using UnityEngine;
 
-//public class RainbowPickup : MonoBehaviour
-//{
-//    public Material rainbowMaterial;
-//    public float duration = 10f;
-
-//    private void OnTriggerEnter2D(Collider2D other)
-//    {
-//        var powerups = other.GetComponent<PlayerPowerups>();
-//        if (powerups != null)
-//        {
-//            powerups.ApplyMaterial(rainbowMaterial, duration);
-
-//            var audio = other.GetComponent<PlayerAudio>();
-//            audio?.PlayPickup();
-
-//            Destroy(gameObject);
-//        }
-//    }
-//}

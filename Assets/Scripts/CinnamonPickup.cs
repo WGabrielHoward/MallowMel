@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CinnamonPickup : MonoBehaviour
 {
-    public Material CinnamonMaterial;
+    [SerializeField] private Material CinnamonMaterial;
 
     private void OnTriggerEnter2D(Collider2D other)
     {

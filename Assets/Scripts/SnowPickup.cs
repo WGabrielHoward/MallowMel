@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class SnowPickup : MonoBehaviour
 {
-    public Material snowMaterial;
+    [SerializeField] private Material snowMaterial;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
